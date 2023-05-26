@@ -1,0 +1,146 @@
+[
+    {
+      "picture": "https://example.com/toy1.jpg",
+      "name": "Plush Teddy Bear",
+      "price": 19.99,
+      "rating": 4.5,
+      "category": "marvel",
+      "sub-category" : "hulk"
+    },
+    {
+      "picture": "https://example.com/toy1.jpg",
+      "name": "Plush Teddy Bear",
+      "price": 19.99,
+      "rating": 4.5,
+      "category": "marvel",
+      "sub-category" : "hulk"
+    },
+    {
+      "picture": "https://example.com/toy1.jpg",
+      "name": "Plush Teddy Bear",
+      "price": 19.99,
+      "rating": 4.5,
+      "category": "marvel",
+      "sub-category" : "captain america"
+    },
+    {
+      "picture": "https://example.com/toy1.jpg",
+      "name": "Plush Teddy Bear",
+      "price": 19.99,
+      "rating": 4.5,
+      "category": "marvel",
+      "sub-category" : "captain america"
+    },
+    {
+      "picture": "https://example.com/toy1.jpg",
+      "name": "Plush Teddy Bear",
+      "price": 19.99,
+      "rating": 4.5,
+      "category": "marvel",
+      "sub-category" : "spiderman"
+    },
+    {
+      "picture": "https://example.com/toy1.jpg",
+      "name": "Plush Teddy Bear",
+      "price": 19.99,
+      "rating": 4.5,
+      "category": "marvel",
+      "sub-category" : "spiderman"
+    },
+    {
+      "picture": "https://example.com/toy2.jpg",
+      "name": "LEGO Classic Creative Bricks",
+      "price": 34.99,
+      "rating": 4.8,
+      "category": "DC Comic",
+      "sub-category": "superman"
+    },
+    {
+      "picture": "https://example.com/toy2.jpg",
+      "name": "LEGO Classic Creative Bricks",
+      "price": 34.99,
+      "rating": 4.8,
+      "category": "DC Comic",
+      "sub-category": "superman"
+    },
+    {
+      "picture": "https://example.com/toy2.jpg",
+      "name": "LEGO Classic Creative Bricks",
+      "price": 34.99,
+      "rating": 4.8,
+      "category": "DC Comic",
+      "sub-category": "wonderwomen"
+    },
+    {
+      "picture": "https://example.com/toy2.jpg",
+      "name": "LEGO Classic Creative Bricks",
+      "price": 34.99,
+      "rating": 4.8,
+      "category": "DC Comic",
+      "sub-category": "wonderwomen"
+    },
+    {
+      "picture": "https://example.com/toy2.jpg",
+      "name": "LEGO Classic Creative Bricks",
+      "price": 34.99,
+      "rating": 4.8,
+      "category": "DC Comic",
+      "sub-category": "aquaman"
+    },
+    {
+      "picture": "https://example.com/toy2.jpg",
+      "name": "LEGO Classic Creative Bricks",
+      "price": 34.99,
+      "rating": 4.8,
+      "category": "DC Comic",
+      "sub-category": "aquaman"
+    },
+    {
+      "picture": "https://example.com/toy3.jpg",
+      "name": "Barbie Dreamhouse",
+      "price": 129.99,
+      "rating": 4.7,
+      "category": "batman",
+      "sub-category" : "batman"
+    },
+    {
+      "picture": "https://example.com/toy3.jpg",
+      "name": "Barbie Dreamhouse",
+      "price": 129.99,
+      "rating": 4.7,
+      "category": "batman",
+      "sub-category" : "batman"
+    },
+    {
+      "picture": "https://example.com/toy3.jpg",
+      "name": "Barbie Dreamhouse",
+      "price": 129.99,
+      "rating": 4.7,
+      "category": "batman",
+      "sub-category" : "the flash"
+    },
+    {
+      "picture": "https://example.com/toy3.jpg",
+      "name": "Barbie Dreamhouse",
+      "price": 129.99,
+      "rating": 4.7,
+      "category": "batman",
+      "sub-category" : "the flash"
+    },
+    {
+      "picture": "https://example.com/toy3.jpg",
+      "name": "Barbie Dreamhouse",
+      "price": 129.99,
+      "rating": 4.7,
+      "category": "batman",
+      "sub-category" : "joker"
+    },
+    {
+      "picture": "https://example.com/toy3.jpg",
+      "name": "Barbie Dreamhouse",
+      "price": 129.99,
+      "rating": 4.7,
+      "category": "batman",
+      "sub-category" : "joker"
+    }
+]
